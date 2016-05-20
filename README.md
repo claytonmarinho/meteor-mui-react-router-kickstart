@@ -1,2 +1,2 @@
-npm install
-meteor
+- npm install
+- meteor

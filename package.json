@@ -14,8 +14,6 @@
     "react-addons-css-transition-group": "^15.0.2",
     "react-dom": "^15.0.2",
     "react-router": "^2.4.0",
-    "react-router-transition": "0.0.5",
-    "react-tap-event-plugin": "^1.0.0",
-    "velocity-react": "^1.1.5"
+    "react-tap-event-plugin": "^1.0.0"
   }
 }

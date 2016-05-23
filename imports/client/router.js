@@ -11,13 +11,7 @@ function logPageView() {
   //ga.pageview(window.location.pathname);
 }
 
-import {
-  Router,
-  Route,
-  Link,
-  browserHistory,
-  IndexRedirect,
-} from 'react-router';
+import { Router, Route, Link, browserHistory, IndexRedirect } from 'react-router';
 
 import App from '/imports/client/templates/App.jsx';
 import Layout from '/imports/client/templates/Layout.jsx';
